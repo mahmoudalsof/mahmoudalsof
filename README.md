@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**mahmoudalsof/mahmoudalsof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "me": {
+        "name": {
+            "first": "Mahmoud",
+            "last": "Alsofyani"
+        },
+        "eduction": {
+            "level": "Bachelor",
+            "major": "Computer Science"
+        },
+        "skills": {
+            "languages": ["go", "nodejs", "typescript", "c/c++", "java" ],
+            "databases": ["postgresql", "mysql", "mongodb"],
+            "technologies": ["echo", "sqlc", "expressjs", "sequelize", "reactjs", "nextjs", "git"],
+            "concepts": ["object oriented programming", "design patterns", "mvc", "rest api", "functional programming", "solid", "dry"]
+        },
+        "hobbies_interests": ["cars", "formula 1", "scuba diving", "adventures", "water sports", "music", "food"]
+    }
+}
+```

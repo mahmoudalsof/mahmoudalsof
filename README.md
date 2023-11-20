@@ -5,7 +5,7 @@
             "first": "Mahmoud",
             "last": "Alsofyani"
         },
-        "eduction": {
+        "education": {
             "level": "Bachelor",
             "major": "Computer Science"
         },
